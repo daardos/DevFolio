@@ -106,14 +106,6 @@ cd DevFolio
 # 2. Установите зависимости
 pip install -r requirements.txt
 
-# 3. Запустите локальный сервер
-python -m uvicorn app.main:app --port 7860
-
-# 4. Откройте админку
-http://localhost:7860/admin
-</pre>
-</div>
-
 <!-- КОНТАКТЫ -->
 <h2 align="center" style="color: #00d1b2;">📫 Контакты</h2>
 <p align="center">
